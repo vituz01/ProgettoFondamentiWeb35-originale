@@ -1,0 +1,12 @@
+
+  .Carrello{
+    color: black;
+    border-radius: 20px;
+  }
+  .Carrello-button{
+   border-radius: 20px;
+  }
+  .Carrello-button:hover{
+    background-color: black;
+    color: whitesmoke;
+  }
