@@ -1,6 +1,6 @@
 # ProgettoFondamentiWeb35
 Per runnare il client: nella cartella, cd client ---> npm start
-Per runnare il server: nella cartella, cd backend ---> num start
+Per runnare il server: nella cartella, cd backend ---> npm start
 
 Indicazioni:
 
